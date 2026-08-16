@@ -5,7 +5,7 @@ description: "meta description"
 date: 2025-04-06T16:56:47+06:00
 image: "/images/posts/06.jpg"
 draft: false
-authors: ["Mark Dinn"]
+authors: ["Jerry"]
 tags: ["Alarm", "Clock"]
 categories: ["LifeStyle"]
 ---
